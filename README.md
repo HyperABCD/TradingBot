@@ -9,3 +9,5 @@ The code also defines a "tradingstrategy" function that uses the MACD strategy t
 Finally, the code calculates the final outcome of the trade using the amount of shares and US dollars remaining at the end of the trade period. It also calculates the "Buy and Hold" result to compare the results of the automated trading strategy to buying and holding shares for the same period.
 
 USE AT YOUR OWN RISK
+
+Test cahngement du readme
